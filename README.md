@@ -1,2 +1,3 @@
 # BOB-Assisstence
 ## A minor graphcal representation of project 
+Currenty this repo contains a simple representaion of what will come in.......
