@@ -2,7 +2,7 @@
 ## A minor graphical representation of project 
 Currenty this repo contains a simple representaion of what will come in...
 
-# 1st Interaction
+## 1st Interaction
 ![1st Interaction ](https://github.com/vikramkumarsingh-0/BOB-Assisstence/assets/34959983/027bd98c-221e-4a82-90ce-c78557cb51e3)
 <br><br>
 
